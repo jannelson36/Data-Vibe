@@ -2,7 +2,7 @@
 ## Interactive data visualization using Flask and D3js
 
 * Welcome to Data Vibe⚡ </br>
-This is an interactive and responsive data visualization software that involves the process of typically retrieving data from a data source, such as a database or an API, using Flask's data handling capabilities. 
+This is an interactive and responsive data visualization program that involves the process of typically retrieving data from a data source, such as a database or an API, using Flask's data handling capabilities. 
 The retrieved data is then transformed, filtered, or processed as needed. Flask's templating engine allows seamless integration of data into the HTML structure of the visualization.
 
 * Once the data is prepared, D3.js comes into play </br>

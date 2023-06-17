@@ -7,7 +7,6 @@ app = Flask(__name__)
 #Reading data
 data_df = pd.read_csv("static/data/Churn_data.csv")
 churn_df = data_df[(data_df['Churn']=="Yes").notnull()]
-PATH_IN = r'static\data\miserables.json' 
 
 @app.route('/')
 def index():

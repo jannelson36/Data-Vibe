@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © `Data Vibe⚡` `<2023>` `<Jan>`
+Copyright © `Data Vibe⚡` `<2023>`
 =======
 
 Permission is hereby granted, free of charge, to any person
@@ -25,3 +25,5 @@ WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
+`<Jan>`
+======
